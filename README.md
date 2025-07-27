@@ -9,18 +9,15 @@ That being said, it’s from me when I was a newcomer to this, to me working and
 
 ## Table of Contents
 
-*   [Overview](#-overview)
-*   [Machine Learning Tools](#-machine-learning-tools)
-*   [AI APIs](#-ai-apis)
-*   [Web Interface Services](#-web-interface-services)
-*   [Frameworks and Libraries](#-frameworks-and-libraries)
-*   [Tutorials and Real-world Examples](#-tutorials-and-real-world-examples)
-*   [Awesome Projects](#-awesome-projects)
-*   [Contribution Guidelines](#-contribution-guidelines)
-*   [License](#-license)
-
-
-
+* [Overview](#overview)
+* [Machine Learning Tools](#machine-learning-tools)
+* [AI APIs](#ai-apis)
+* [Web Interface Services](#web-interface-services)
+* [Frameworks and Libraries](#frameworks-and-libraries)
+* [Tutorials and Real-world Examples](#tutorials-and-real-world-examples)
+* [Awesome Projects](#awesome-projects)
+* [Contribution Guidelines](#contribution-guidelines)
+* [License](#license)
 
 ## Overview
 
